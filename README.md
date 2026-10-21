@@ -32,7 +32,7 @@ Flags are not included in these write-ups.
 
 | Challenge | Category | Platform | Key Technique |
 |---|---|---|---|
-| [Bank-Loan Calculator](./cylab-academy/bank-loan-calculator-eval-rce/) | Web / RCE | CyLab Security Academy | Python `eval()` blocklist bypass via `chr()` encoding |
+| [Bank-Loan Calculator](./picoCTF/bank-loan-calculator-eval-rce/) | Web / RCE | CyLab Security Academy | Python `eval()` blocklist bypass via `chr()` encoding |
 
 *(updated as new write-ups are added)*
 
