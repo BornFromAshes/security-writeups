@@ -13,7 +13,6 @@ track that progress in public.
 ```
 security-writeups/
 ├── picoctf/
-│   ├── web-exploitation/
 └── other/
 ```
 
@@ -32,7 +31,7 @@ Flags are not included in these write-ups.
 
 | Challenge | Category | Platform | Key Technique |
 |---|---|---|---|
-| [Bank-Loan Calculator](./picoctf/bank-loan-calculator-eval-rce/) | Web / RCE | CyLab Security Academy | Python `eval()` blocklist bypass via `chr()` encoding |
+| [3v@l](./picoctf/bank-loan-calculator-eval-rce/) | Web / RCE | picoCTF | Python `eval()` blocklist bypass via `chr()` encoding |
 
 *(updated as new write-ups are added)*
 
