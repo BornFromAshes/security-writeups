@@ -13,12 +13,7 @@ track that progress in public.
 ```
 security-writeups/
 ├── picoctf/
-│   ├── general-skills/
 │   ├── web-exploitation/
-│   ├── cryptography/
-│   ├── forensics/
-│   └── binary-exploitation/
-├── cylab-academy/
 └── other/
 ```
 
@@ -31,7 +26,7 @@ Each challenge gets its own folder with a `README.md` containing:
   developer would actually prevent it
 - **Tools used**
 
-Flags are always redacted in these write-ups.
+Flags are not included in these write-ups.
 
 ## Index
 
@@ -48,8 +43,3 @@ Academy) alongside the Google Cybersecurity Professional Certificate and
 CompTIA Security+. Writing these up properly — not just "here's the flag" —
 is how I make sure I actually understood the vulnerability, not just
 pattern-matched a solution.
-
-## Contact
-
-- GitHub: [your-username]
-- LinkedIn: [your-link]
